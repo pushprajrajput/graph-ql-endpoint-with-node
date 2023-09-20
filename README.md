@@ -9,7 +9,7 @@ Follow these steps to get started with this project:
 1. **Clone the Repository:** Clone this repository to your local machine.
 
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/pushprajrajput/graph-ql-endpoint-with-node
    ```
 
 2. **Navigate to the Project Directory:** Change your current directory to the project folder.
