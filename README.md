@@ -15,7 +15,7 @@ Follow these steps to get started with this project:
 2. **Navigate to the Project Directory:** Change your current directory to the project folder.
 
    ```bash
-   cd your-repo-name
+   cd graph-ql-endpoint-with-node
    ```
 
 3. **Install Dependencies:** Install the required Node.js packages.
