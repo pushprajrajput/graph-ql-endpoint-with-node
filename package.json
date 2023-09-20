@@ -1,0 +1,24 @@
+{
+  "name": "graph-ql-endpoint-with-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pushprajrajput/graph-ql-endpoint-with-node.git"
+  },
+  "author": "Pushpraj Rajput",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pushprajrajput/graph-ql-endpoint-with-node/issues"
+  },
+  "homepage": "https://github.com/pushprajrajput/graph-ql-endpoint-with-node#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-graphql": "^0.12.0",
+    "graphql": "^16.8.1"
+  }
+}
